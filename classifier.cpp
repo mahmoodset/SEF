@@ -9,6 +9,5 @@ class Classifier {
 
 	void predict(void) {
 		printf("predict");
-		printf("the second feature is added");
 	}
 };
