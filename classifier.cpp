@@ -3,6 +3,8 @@ class Classifier {
 
 	void train(void) {
 		printf("train");
+		printf("the first feature is added");
+
 	}
 
 	void predict(void) {
